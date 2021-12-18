@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SteelTrueDrum
 - 👀 I’m interested in Webdesign
-- 🌱 I’m currently learning html, css and JS
+- 🌱 I’m currently learning HTML, CSS and JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
