@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SteelTrueDrum
-- 👀 I’m interested in Webdesign
-- 🌱 I’m currently learning HTML, CSS and JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Backend
+- 🌱 I’m currently learning Java
+- 📫 How to reach me: steeltruedrum@gmail.com
 
 <!---
 SteelTrueDrum/SteelTrueDrum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
